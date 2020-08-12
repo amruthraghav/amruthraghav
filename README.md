@@ -36,7 +36,6 @@ Here are some ideas to get you started:
 
 ### Languages
 
-Python, JavaScript, Java, C++, R, Swift, SQL, HTML, CSS,
 
 [<img align="left" alt="Python" width="26px" src="https://img.icons8.com/color/48/000000/python.png" />][github]
 [<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />][github]
@@ -45,6 +44,8 @@ Python, JavaScript, Java, C++, R, Swift, SQL, HTML, CSS,
 [<img align="left" alt="R" width="26px" src="https://img.icons8.com/dusk/48/000000/r.png" />][github]
 [<img align="left" alt="R" width="26px" src="https://img.icons8.com/color/48/000000/swift.png" />][github]
 [<img align="left" alt="SQL" width="26px" src="https://img.icons8.com/color/48/000000/sql.png" />][github]
+
+<br />
 
 ### Development Tools:
 
