@@ -68,6 +68,8 @@ Here are some ideas to get you started:
 <br />
 
 
+![Amruth's github stats](https://github-readme-stats.vercel.app/api?username=amruthraghav&count_private=true&show_icons=true&theme=dark)
+
 [website]: https://amruthraghav.github.io
 [github]: https://github.com/amruthraghav
 [twitter]: https://twitter.com/amruth_raghav
